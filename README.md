@@ -1,2 +1,2 @@
 # SingleCycleRISCV
-design Single Cycle RISC-V processor using system verilog
+design of Single Cycle RISC-V processor using system verilog
